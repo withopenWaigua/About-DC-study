@@ -1,0 +1,20 @@
+
+/*实现段落水平以及垂直居中*/
+p{
+
+    line-height: 50px;
+    height: 50px;
+    text-align: center;
+}
+/*点击前是蓝色*/
+a:link{
+    color: blue;
+}
+/*点击时是橙色*/
+a:hover{
+    color: orange;
+}
+/*点击后是黑色*/
+a:visited{
+    color: black;
+}
